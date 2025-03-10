@@ -39,8 +39,8 @@
 ## How to Run
 
 ```bash
-$ git clone https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient.git
-$ cd MultiThreadedProxyServerClient
+$ git clone https://github.com/guptatavish/WebServer-C.git
+$ cd WebServer-C
 $ make all
 $ ./proxy <port no.>
 ```
